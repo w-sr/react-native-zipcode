@@ -17,7 +17,7 @@
 
 ```sh
 cd react-native-zipcode
-yarn install && cd ios && pod install
+yarn && cd ios && pod install
 yarn ios
 ```
 
