@@ -23,13 +23,13 @@ yarn ios
 
 ## Folder Structure
 
-- assets/
 - components/
-- context/
-- graphql/
-- lib/
+- config/
+- hooks/
+- libs/
 - routes/
 - screens/
+- store/
 - theme/
 
 The `components` directory contains customized components like button, input, indicator to be used on multiple screens.
