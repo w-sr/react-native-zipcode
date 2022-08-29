@@ -23,23 +23,14 @@ yarn ios
 
 ## Folder Structure
 
-- components/
-- config/
-- hooks/
-- libs/
-- routes/
-- screens/
-- store/
-- theme/
-
-- The `components` directory contains customized components like button, input, indicator to be used on multiple screens.
-- The `config` directory contains constant variables like API base url, etc.
-- The `hooks` directory contains custom hooks.
-- The `libs` directory contains utility functions.
-- The `routes` directory contains routes for navigation between screens.
-- The `screens` directory contains screen components.
-- The `store` directory contains redux store to manage statement.
-- The `theme` directory contains colors, fonts, sizes to be used for overall looking.
+- components/: The `components` directory contains customized components like button, input, indicator to be used on multiple screens.
+- config/: The `config` directory contains constant variables like API base url, etc.
+- hooks/: The `hooks` directory contains custom hooks.
+- libs/: The `libs` directory contains utility functions.
+- routes/: The `routes` directory contains routes for navigation between screens.
+- screens/: The `screens` directory contains screen components.
+- store/: The `store` directory contains redux store to manage statement.
+- theme/: The `theme` directory contains colors, fonts, sizes to be used for overall looking.
 
 [redux toolkit]: https://redux-toolkit.js.org/
 [redux saga]: https://redux-saga.js.org/
