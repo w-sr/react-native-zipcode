@@ -32,14 +32,14 @@ yarn ios
 - store/
 - theme/
 
-The `components` directory contains customized components like button, input, indicator to be used on multiple screens.
-The `config` directory contains constant variables like API base url, etc.
-The `hooks` directory contains custom hooks.
-The `libs` directory contains utility functions.
-The `routes` directory contains routes for navigation between screens.
-The `screens` directory contains screen components like login, register, todolist, etc.
-The `store` directory contains redux store to manage statement.
-The `theme` directory contains colors, fonts, sizes to be used for overall looking.
+- The `components` directory contains customized components like button, input, indicator to be used on multiple screens.
+- The `config` directory contains constant variables like API base url, etc.
+- The `hooks` directory contains custom hooks.
+- The `libs` directory contains utility functions.
+- The `routes` directory contains routes for navigation between screens.
+- The `screens` directory contains screen components.
+- The `store` directory contains redux store to manage statement.
+- The `theme` directory contains colors, fonts, sizes to be used for overall looking.
 
 [redux toolkit]: https://redux-toolkit.js.org/
 [redux saga]: https://redux-saga.js.org/
